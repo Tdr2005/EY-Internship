@@ -1,0 +1,17 @@
+.box1{
+
+    width: 400px;
+    height: 900px;
+    background-color: skyblue;
+}
+.h{
+    text-transform: uppercase;
+    color: blue;
+}
+.spn{
+    text-transform: uppercase;
+    background-color: yellow;
+}
+.img{
+    border-radius: 100%;
+}

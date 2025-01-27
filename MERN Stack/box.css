@@ -1,0 +1,10 @@
+.box{
+    height: 500px;
+    width: 400px;
+    background-color: aqua;
+    padding: 50px;
+    margin: 80px;
+    border: 10px;
+    border-color: black;
+    border-style: solid;
+}

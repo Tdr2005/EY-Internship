@@ -1,0 +1,20 @@
+.orange{
+    height: 200px;
+    width: 900px;
+    background-color: orange;
+}
+.white{
+    height: 200px;
+    width: 900px;
+    background-color: white;
+}
+.green{
+    height: 200px;
+    width: 900px;
+    background-color: green;
+}
+.img{
+    height: 200px;
+    width: 200px;
+    padding-left: 350px;
+}
